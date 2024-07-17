@@ -125,7 +125,7 @@ if(!isset($admin_id)){
          ?>
          <h3><?= $number_of_messages; ?></h3>
          <p>New messages</p>
-         <a href="messages.php" class="btn">See messages</a>
+         <a href="messages.php" class="btn">Selling Requests</a>
       </div>
 
    </div>
